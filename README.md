@@ -4,7 +4,7 @@
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@leoplushd5133)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LeozinSan)
 <!--
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
@@ -43,8 +43,9 @@ I'm an indie full-stack developer and content creator building my version of the
 [![New Junior Developers Can't Actually Code](https://ytcards.demolab.com/?id=6Jji5HNMze0&title=New+Junior+Developers+Can%27t+Actually+Code&lang=en&timestamp=1740315607&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1607 "New Junior Developers Can't Actually Code")](https://www.youtube.com/watch?v=6Jji5HNMze0)
 [![So I Coded with Windsurf for a Week](https://ytcards.demolab.com/?id=485-1xZjKS4&title=So+I+Coded+with+Windsurf+for+a+Week&lang=en&timestamp=1740151680&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=984 "So I Coded with Windsurf for a Week")](https://www.youtube.com/watch?v=485-1xZjKS4)-->
 <!-- END YOUTUBE-CARDS -->
+<!--
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
+ -->
 #
 
 ### 📊 Stats
