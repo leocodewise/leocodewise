@@ -2,8 +2,10 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
+ok
+<!--
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[@LeozinSan][youtube]" to more than 0 subscribers.
-
+-->
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LeozinSan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leozsanc/)
 <!--
@@ -47,11 +49,11 @@ I'm an indie full-stack developer and content creator building my version of the
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
  -->
 #
-
+<!--
 ### 📊 Stats
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=leocodewise&show_icons=true&theme=gruvbox)
-
+ -->
 ### 💻 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leocodewise&hide_progress=compact)
